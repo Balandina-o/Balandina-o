@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">USATU student
 <img src="https://sun6-21.userapi.com/s/v1/if2/Dy1WrD-YaxVL3KiWEL_l95HHgVQmK5wFCGrleQQ28xLRk7fZ_IiNe7lUvQVzShKUPBgA577Eeg46et3UKAASptF2.jpg?size=200x202&quality=96&crop=38,38,1083,1099&ava=1" height="20"/></h3>
-
+and nothing else matters
 <!--
 **Balandina-o/Balandina-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
