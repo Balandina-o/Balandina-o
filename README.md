@@ -4,12 +4,12 @@
 <img src="https://sun6-21.userapi.com/s/v1/if2/Dy1WrD-YaxVL3KiWEL_l95HHgVQmK5wFCGrleQQ28xLRk7fZ_IiNe7lUvQVzShKUPBgA577Eeg46et3UKAASptF2.jpg?size=200x202&quality=96&crop=38,38,1083,1099&ava=1" height="20"/></h3>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=120e1f&lines=...and+nothing+else+matters">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balandina-o)](https://github.com/Balandina-o/github-readme-stats)
 </p>
-<!--**<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balandina-o">
 
 
 <!--**Balandina-o/Balandina-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
